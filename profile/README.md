@@ -13,3 +13,5 @@ Follow this strictly so Kara doesn't get bogged down by technical debt
 * [ ] Does it have automated unit tests?
 * [ ] Does it have automatic deployment?
 * [ ] Does it build and start quickly?
+* [ ] Is it free of circular dependencies?
+* [ ] Are all of its dependencies explicit?
