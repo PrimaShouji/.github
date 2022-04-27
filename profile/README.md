@@ -11,3 +11,4 @@ Repository|Description|Language
 * [ ] Does it expose a logging endpoint?
 * [ ] Does it have automated unit tests?
 * [ ] Does it have automatic deployment?
+* [ ] Does it build and start quickly?
