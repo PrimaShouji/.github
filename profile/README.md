@@ -8,7 +8,7 @@ Repository|Description|Language
 
 ## Service design checklist
 Follow this strictly so Kara doesn't get bogged down by technical debt
-* [ ] Does it have a self-contained, Discord-free, manual testing environment?
+* [ ] Does it have a self-contained, Discord-free, super-easy-to-set-up manual testing environment?
 * [ ] Does it expose a logging endpoint?
 * [ ] Does it have automated unit tests?
 * [ ] Does it have automatic deployment?
