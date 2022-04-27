@@ -7,6 +7,7 @@ Repository|Description|Language
 [modmail](https://github.com/PrimaShouji/modmail)||Python
 
 ## Service design checklist
+Follow this strictly so Kara doesn't get bogged down by techinical debt
 * [ ] Does it have a self-contained, Discord-free, manual testing environment?
 * [ ] Does it expose a logging endpoint?
 * [ ] Does it have automated unit tests?
